@@ -18,5 +18,5 @@ Mods (total 100+ pts):
 
 Perhaps extra points for other mods?
 - Custom Font
-- Menu Music that stops when you enter play scene
-- Randomized Menu Music
+- Menu Music that transitions to gameplay music when you enter play scene
+- Randomized Menu/Play Music
